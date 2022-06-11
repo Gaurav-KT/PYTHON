@@ -1,0 +1,1 @@
+In this file, Python Operator are mentioned such as Airthmethic, Assignment, Relational, Logical, Bitwise, Membership and Identity Operator.
