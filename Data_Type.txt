@@ -1,0 +1,3 @@
+
+n this file we describe the data types of python. In Python Programming Language there are 14 Data types which is Int,Float, Bool, Complex, String, Bytes, Bytearray, List, Tuple, Set, Frozenset, Dictionary, None.
+
